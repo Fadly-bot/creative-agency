@@ -1,0 +1,1 @@
+<section class="mx-auto max-w-2xl px-5 py-24 text-center"><p class="eyebrow">419 · FORM KEDALUWARSA</p><h1 class="mt-3 text-4xl font-semibold">Sesi formulir berakhir.</h1><p class="mt-4 text-neutral-600">Muat ulang halaman lalu coba kembali.</p><a class="mt-6 inline-block underline decoration-sun underline-offset-4" href="/">Ke beranda ↗</a></section>

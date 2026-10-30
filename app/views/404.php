@@ -1,0 +1,1 @@
+<section class="mx-auto max-w-2xl px-5 py-24 text-center"><p class="eyebrow">404 · TIDAK DITEMUKAN</p><h1 class="mt-3 text-4xl font-semibold">Sepertinya halaman ini belum dibuat.</h1><a class="mt-6 inline-block underline decoration-sun underline-offset-4" href="/">Kembali ke beranda ↗</a></section>

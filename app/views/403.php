@@ -1,0 +1,1 @@
+<section class="mx-auto max-w-2xl px-5 py-24 text-center"><p class="eyebrow">AKSES DITOLAK · 403</p><h1 class="mt-3 text-4xl font-semibold">Halaman ini tidak tersedia untuk akunmu.</h1><a class="mt-6 inline-block underline decoration-sun underline-offset-4" href="/dashboard">Kembali ke dashboard ↗</a></section>

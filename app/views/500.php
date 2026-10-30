@@ -1,0 +1,1 @@
+<section class="mx-auto max-w-2xl px-5 py-24 text-center"><p class="eyebrow">500 · GANGGUAN SEMENTARA</p><h1 class="mt-3 text-4xl font-semibold">Studio sedang tidak dapat dijangkau.</h1><p class="mt-4 text-neutral-600">Coba beberapa saat lagi.</p></section>
